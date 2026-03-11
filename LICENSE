@@ -1,0 +1,80 @@
+Copyright (c) 2026 Li Xiang (github.com/AdaXL)
+All rights reserved.
+
+ADAPTIVE LLM INFERENCE SCHEDULER
+Non-Commercial Research License
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GRANT OF LICENSE
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use,
+copy, modify, and distribute the Software solely for the following permitted
+purposes, subject to the conditions below:
+
+  (a) Personal use, study, and experimentation.
+  (b) Academic and non-commercial research.
+  (c) Education, teaching, and classroom instruction.
+  (d) Open-source projects that are themselves distributed under a
+      non-commercial license of equivalent or greater restriction.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CONDITIONS
+
+1. Attribution. All copies, distributions, or derivative works — whether
+   modified or unmodified — must retain this copyright notice, this license
+   text in its entirety, and a clear acknowledgement of the original author
+   and repository (github.com/AdaXL/adaptive-llm-scheduler).
+
+2. Share-Alike. Any derivative work, modified version, or work that
+   incorporates substantial portions of this Software must be distributed
+   under this same license or a license with equivalent non-commercial
+   restrictions. You may not apply additional restrictions that prevent
+   recipients from exercising the rights granted here.
+
+3. Academic Citation. Any academic publication, technical report, blog post,
+   or public presentation that builds upon, references, or is informed by
+   this Software must include an attribution to the original repository.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+RESTRICTIONS
+
+Commercial Use is strictly prohibited without a separate written license
+agreement from the copyright holder. Commercial Use includes, but is not
+limited to:
+
+  (a) Incorporating the Software, in whole or in part, into a product or
+      service that is sold, licensed, or otherwise monetised.
+  (b) Using the Software to provide a paid or revenue-generating service,
+      including inference APIs, scheduling-as-a-service, or hosted platforms.
+  (c) Using the Software internally within a for-profit organisation for
+      purposes that directly support commercial operations or revenue.
+  (d) Distributing the Software as part of a commercial software package or
+      SaaS offering.
+  (e) Training, fine-tuning, or distilling commercial AI/ML models using
+      outputs, benchmarks, or artefacts produced by this Software.
+
+To obtain a commercial license, contact the copyright holder directly.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DISCLAIMER
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF,
+OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SUMMARY (not legally binding — the full text above governs)
+
+  ✓ Allowed: personal use, academic research, education, open-source projects
+  ✗ Prohibited: commercial use, commercial products/services, paid APIs
+  ✓ Required: retain this copyright notice and attribute the original author
